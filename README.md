@@ -1,8 +1,11 @@
 # Digital Literacy Project – CSE0001
 
 **Name:** Simrandeep Singh
+
 **Registration Number:** 25BAI11132
+
 **Branch:** B.Tech CSE 
+
 **Year:** 1st Year
 
 ---
